@@ -2,7 +2,7 @@
 
 Grids through-hole is a through-hole adaptation of the Mutable Instruments Grids Topographic drum sequencer. It’s a 100% non-commercial effort developed purely for own educational purposes where I’m trying to learn to understand schematics, Kicad and PCB making.
 
-Please note that this is not yet tested or verified (2020-05), I’d like to hear your feedback if you built this unit so I can improve these files.
+Please note that this is not yet tested or verified (2020-05), I’d like to hear your feedback if you built this module so I can improve these files.
 
 # Design
 The original SMD PCB is all-in-one but since there's no space for THT components and keep the original control layout (Control board) I added secondary PCB for the "Brains" (Brains board). Basically this can be built without the Control board if you use wires from Brains board (from PINS(1-3).1 outputs) to output jacks, switch and potentiometers. Note that there's couple resistors and leds on the Control board so without the Control board add these to the jacks and switches.
