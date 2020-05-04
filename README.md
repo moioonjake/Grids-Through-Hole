@@ -4,10 +4,10 @@ Grids through-hole is a through-hole adaptation of the Mutable Instruments Grids
 
 Please note that this is not yet tested or verified (2020-05), I’d like to hear your feedback if you built this unit so I can improve these files.
 
-/ Design<br><br>
+/ Design<br>
 from one PCB to two PCB.
 
-/ Panel<br><br>
+/ Panel<br>
 original should work fine.
 
 
