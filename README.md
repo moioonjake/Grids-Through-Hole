@@ -1,4 +1,4 @@
-# Grids Through-Hole
+# Grids Through-Hole aka Ruudukko
 
 Grids through-hole is a through-hole adaptation of the Mutable Instruments Grids Topographic drum sequencer. It’s a 100% non-commercial effort developed purely for own educational purposes where I’m trying to learn to understand schematics, Kicad and PCB making.
 
