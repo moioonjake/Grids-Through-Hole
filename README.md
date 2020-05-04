@@ -14,7 +14,7 @@ original should work fine.
 
 # Notes
 Original files, code & BOM can be found here: https://github.com/pichenettes/eurorack/tree/master/grids
-Note that BOM needs convert from SMD to THT components.
+<br>Note that BOM needs convert from SMD to THT components.
 
 # License
 Hardware: cc-by-sa-3.0
