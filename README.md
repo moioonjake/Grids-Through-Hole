@@ -25,7 +25,7 @@ height : 102.87 mm
 
 I'm going to do second Control board with thonkiconn jacks and board height under 100mm. The minus side on that is the original layout will be lost so with that Control board the original panel is not matching anymore and that board require different panel. So if you're going to make own panel then it does not matter.
 
-Schematic is original, I did not add PINS(1-3).(1-2) to schematic, only to the boards.
+Schematic is original, I did not add PINS(1-3).(1-2) to the schematic, only to the boards.
 
 # Panel
 Original should work fine as the Control board layout as kept as original, if you want to use the bonus outs drill two holes to the panel upper right corner for jacks.
