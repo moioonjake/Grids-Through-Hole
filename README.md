@@ -11,6 +11,10 @@ The original SMD PCB is all-in-one but since there's no space for THT components
 <br><br>I also added those two bonus outs (clock and random gates) to the Control board upper right corner, these are optional like in the original. Also wire connect points to MIDI is moved to the Brains board, this requires wires to MIDI connector or add stereo 3.5mm jack and wire MIDI from Brains board to that.
 <br><br>PCB's were made in Kicad and in the same board file and then separeted.
 
+![image of THT-v1.1 front side](https://github.com/moioonjake/Grids-Through-Hole/blob/master/grids_v02-THT-v1.1-front.png)
+
+![image of THT-v1.1 back side](https://github.com/moioonjake/Grids-Through-Hole/blob/master/grids_v02-THT-v1.1-back.png)
+
 Schematic is original, I did not add PINS(1-3).(1-2) to schematic, only to the boards.
 
 # Panel
