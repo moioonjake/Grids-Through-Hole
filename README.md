@@ -3,7 +3,7 @@ DIY Grids converted from SMD to THT
 
 
 # Notes
-Original files can be found here: https://github.com/pichenettes/eurorack
+Original files and code can be found here: https://github.com/pichenettes/eurorack/tree/master/grids
 
 
 # License
