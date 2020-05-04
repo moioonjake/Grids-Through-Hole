@@ -15,12 +15,12 @@ The original SMD PCB is all-in-one but since there's no space for THT components
 
 ![image of THT-v1.1 back side](https://github.com/moioonjake/Grids-Through-Hole/blob/master/grids_v02-THT-v1.1-back.png)
 
-Brains board:
-width : 74.93 mm
+Brains board:<br>
+width : 74.93 mm<br>
 height : 78.11 mm
 
-Control board:
-width : 78.08 mm
+Control board:<br>
+width : 78.08 mm<br>
 height : 102.87 mm
 
 I'm going to do second Control board with thonkiconn jacks and board height under 100mm. The minus side on that is the original layout will be lost so with that Control board the original panel is not matching anymore and that board require different panel. So if you're going to make own panel then it does not matter.
