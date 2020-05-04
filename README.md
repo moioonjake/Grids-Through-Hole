@@ -12,6 +12,8 @@ The original SMD PCB is all-in-one but since there's no space for THT components
 # Panel
 Original should work fine as the Control board layout as kept as original, if you want to use the bonus outs drill two holes to the panel upper right corner for jacks.
 
+Link to the original panel files: https://github.com/pichenettes/eurorack/tree/master/grids/hardware_design/panel
+
 # Possible updates to v1.2
 - Add: MIDI output to stereo 3.5mm jack to Control board. On the PINS3.(1-2) GND can be changed so that MIDI would be transported via PINS3.(1-2) pin6 between boards. Add stereo 3.5mm jack to Control board and wire TIP to the PINS3.2 pin6 and on the Brains board wire MIDI RX to PINS3.1 pin6.
 
