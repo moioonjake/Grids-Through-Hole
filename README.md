@@ -9,7 +9,7 @@ The original SMD PCB is all-in-one but since there's no space for THT components
 <br><br>I also added those two bonus outs (clock and random gates) to the Control board upper right corner, these are optional like in the original. Also wire connect points to MIDI is moved to the Brains board, this requires wires to MIDI connector or add stereo 3.5mm jack and wire MIDI from Brains board to that.
 
 # Panel
-Original should work fine, if you want to use the bonus outs drill two holes to the panel upper right corner for jacks.
+Original should work fine as the Control board layout as kept as original, if you want to use the bonus outs drill two holes to the panel upper right corner for jacks.
 
 # Possible updates to v1.2
 - Add: MIDI output to stereo 3.5mm jack to Control board.
