@@ -5,10 +5,10 @@ Grids through-hole is a through-hole adaptation of the Mutable Instruments Grids
 Please note that this is not yet tested or verified (2020-05), I’d like to hear your feedback if you built this unit so I can improve these files.
 
 / Design<br>
-from one PCB to two PCB.
+The original SMD PCB is all-in-one but since there's no space for THT components and keep the original control layout I needed to add secondary PCB for the "Brains". Basically this can be built without the Control board if you use wires from board (from PINS outputs) to output jacks, switch and potentiometers. Note that there's couple resistors and leds on the Control board. I also added those two bonus outs (clock and random gates) to the Control board upper right corner, these are not necessary to connect like in the original. Also wire connects to MIDI is moved to Brains board, this requires wires to MIDI connector.
 
 / Panel<br>
-original should work fine.
+Original should work fine, if you want to use the bonus outs drill two holes to the panel upper right corner for jacks.
 
 
 
