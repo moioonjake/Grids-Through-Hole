@@ -1,5 +1,9 @@
-# Grids-Through-Hole
-DIY Grids converted from SMD to THT
+# Grids Through-Hole
+DIY Grids converted from SMD to THT.
+
+Note that this is not yet verified (2020-05).
+
+
 
 
 # Notes
