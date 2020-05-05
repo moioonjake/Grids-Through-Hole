@@ -32,6 +32,9 @@ Schematic is original, but I added two bonus outputs and resistors (v1.2), I did
 - Added resistors to two bonus outputs
   - Schema update
   - PCB update
+  
+# v1.1
+- Original release
 
 # Panel
 Original should work fine as the Control board layout as kept as original, if you want to use the bonus outs drill two holes to the panel upper right corner for jacks.
