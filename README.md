@@ -27,7 +27,7 @@ I'm going to do second Control board with thonkiconn jacks and board height unde
 
 Schematic is original, I did not add PINS(1-3).(1-2) to the schematic, only to the boards.
 
-NOTE! Two bonus outs are missing resistors, I'll update them asap and release v1.2.
+<b>NOTE! Two bonus outs are missing resistors, I'll update them asap and release v1.2.</b>
 
 # Panel
 Original should work fine as the Control board layout as kept as original, if you want to use the bonus outs drill two holes to the panel upper right corner for jacks.
