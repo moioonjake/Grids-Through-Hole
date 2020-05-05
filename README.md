@@ -31,7 +31,7 @@ Schematic is original, but I added two bonus outputs and resistors (v1.2), I did
 v1.2
 - Added resistors to two bonus outputs
   - Schema update
-  - PCB update
+  - Control PCB update
   
 v1.1
 - Original release
