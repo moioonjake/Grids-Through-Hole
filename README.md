@@ -28,12 +28,12 @@ I'm going to do second Control board with thonkiconn jacks and board height unde
 Schematic is original, but I added two bonus outputs and resistors (v1.2), I did not add PINS(1-3).(1-2) to the schematic, only to the boards.
 
 # Version History
-# v1.2
+v1.2
 - Added resistors to two bonus outputs
   - Schema update
   - PCB update
   
-# v1.1
+v1.1
 - Original release
 
 # Panel
