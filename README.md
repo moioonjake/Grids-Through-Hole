@@ -11,9 +11,9 @@ The original SMD PCB is all-in-one but since there's no space for THT components
 <br><br>I also added those two bonus outs (clock and random gates) to the Control board upper right corner, these are optional like in the original. Also wire connect points to MIDI is moved to the Brains board, this requires wires to MIDI connector or add stereo 3.5mm jack and wire MIDI from Brains board to that.
 <br><br>PCB's were made in Kicad and in the same board file and then separated.
 
-![image of THT-v1.1 front side](https://github.com/moioonjake/Grids-Through-Hole/blob/master/grids_v02-THT-v1.1-front.png)
+![image of THT-v1.1 front side](https://github.com/moioonjake/Grids-Through-Hole/blob/master/grids_v02-THT-v1.2-front.png)
 
-![image of THT-v1.1 back side](https://github.com/moioonjake/Grids-Through-Hole/blob/master/grids_v02-THT-v1.1-back.png)
+![image of THT-v1.1 back side](https://github.com/moioonjake/Grids-Through-Hole/blob/master/grids_v02-THT-v1.2-back.png)
 
 Brains board:<br>
 width : 74.93 mm<br>
@@ -25,9 +25,13 @@ height : 102.87 mm
 
 I'm going to do second Control board with thonkiconn jacks and board height under 100mm. The minus side on that is the original layout will be lost so with that Control board the original panel is not matching anymore and that board require different panel. So if you're going to make own panel then it does not matter.
 
-Schematic is original, I did not add PINS(1-3).(1-2) to the schematic, only to the boards.
+Schematic is original, but I added two bonus outputs and resistors (v1.2), I did not add PINS(1-3).(1-2) to the schematic, only to the boards.
 
-<b>NOTE! Two bonus outs are missing resistors, I'll update them asap and release v1.2.</b>
+# Version History
+# v1.2
+- Added resistors to two bonus outputs
+  - Schema update
+  - PCB update
 
 # Panel
 Original should work fine as the Control board layout as kept as original, if you want to use the bonus outs drill two holes to the panel upper right corner for jacks.
